@@ -1,7 +1,7 @@
 # Industrial Copper Modelling
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cb09a1c-2905-4475-acd6-646663959ac5" alt="Project WorkFlow" width="790" height="550">
+  <img src="https://github.com/user-attachments/assets/6cb09a1c-2905-4475-acd6-646663959ac5" alt="Project WorkFlow" width="790" height="700">
  </p>
 
 **Introduction**
